@@ -59,6 +59,7 @@ The code is organized into several key components, each responsible for specific
 1. Compile the code using a C++ compiler.
 2. Run the executable.
 3. Follow the prompts to log in and manage clients and users.
+4. Username: Admin  Password: 1234
 
 ## Requirements
 
